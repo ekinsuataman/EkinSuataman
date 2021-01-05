@@ -9,5 +9,5 @@
 💡  [linkedin] 
 
 
-[gmail]: https://mail.google.com/mail/u/0/#inbox
-[linkedin]: https://www.linkedin.com/in/ekin-%C5%9Fuataman-438775193/
+[gmail]: 
+[linkedin]:
