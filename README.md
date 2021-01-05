@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning JavaScript & React
 - ⚡ Fun fact: I enjoy reading and writing articles very, very much :)
 
-✉️ [gmail] 
 💡  [linkedin] 
 
 
-[gmail]: ekinsuataman@gmail.com
 [linkedin]: https://www.linkedin.com/in/ekin-%C5%9Fuataman-438775193/
